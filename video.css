@@ -1,0 +1,31 @@
+#video{
+float:left;
+width: 300px;
+border:10px solid white;
+padding:312px;
+background-color:black;
+}
+#buttons{
+float:left;
+width:665px;
+border:10px solid white;
+padding:130px;
+
+}
+.button{
+background-color: red;
+border:none;
+color:black;
+text-align: center;
+display:inline-block;
+font-size: 48px;
+cursor: pointer;
+margin: 20px 50px;
+}
+
+#chat{
+float: right;
+width:300px;
+padding:300px;
+
+}
