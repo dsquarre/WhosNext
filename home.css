@@ -1,0 +1,25 @@
+h1{
+color:blue;
+text-align: center;
+font-size: 72px;
+}
+#start{
+margin:234px;
+padding-left: 63px;
+padding-right: 50px;
+position:relative;
+box-sizing:border-box;
+}
+body{
+text-align:center;}
+.button{
+background-color: blue;
+border:none;
+color:White;
+text-align: center;
+display:inline-block;
+font-size: 48px;
+cursor: pointer;
+margin: 10px 10px;
+}
+
