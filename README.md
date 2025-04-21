@@ -1,4 +1,4 @@
-# 🎥 WhoesNext
+# 🎥 WhosNext
 
 **WhoesNext** is an open-source alternative to Omegle, focused on **anonymous video chats** with a strong emphasis on **user safety** and **privacy**.
 
