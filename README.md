@@ -19,61 +19,8 @@ To build a real-time video-chat platform that enables safe and spontaneous conve
 
 ---
 
-## ⚙️ Planned Tech Stack
-
-### 🔧 Backend
-- **FastAPI** – Lightweight, async web framework
-- **OpenCV / Deep Learning Models** – For real-time content moderation
-- **Redis / SQLite / PostgreSQL** – Session storage or temp data management (TBD)
-
-### 💻 Frontend
-- **React** – Component-based SPA
-- **WebRTC** – Real-time peer-to-peer video streaming
-- **Socket.io / WebSockets** – For signaling and chat communication
-
-### 🧠 AI/ML
-- **NSFW/Violence Detection Models** (e.g. NudeNet, DeepDetect, custom CNNs)
-- **Frame Sampling + Image Analysis** – To balance accuracy and performance
-
----
-
-## 🚀 Features (Planned)
-
-| Feature | Status |
-|--------|--------|
-| Anonymous video chat | ⏳ In Progress |
-| Real-time moderation using AI | 🧠 In Design |
-| IP banning system | 🛠️ Planned |
-| Screenshot capture and cleanup | 🛠️ Planned |
-| Chat + Emoji support | ⏳ In Progress |
-| Optional audio-only mode | 💡 Idea |
-| Language filters | 💡 Idea |
-| User report button | 🛠️ Planned |
-
----
-
-## 🛠️ Setup (Coming Soon)
-
-> ⚠️ Full setup instructions will be added once the MVP is ready.
-
-For now, general dev dependencies you might want installed:
-- `python3` + `pip`
-- `nodejs` + `npm`
-- `ffmpeg`
-- `opencv-python`
-- virtualenv
-
----
-
-This project is in early development. If you’re interested in:
-- AI/ML moderation
-- WebRTC / FastAPI
-- Frontend UI for chat apps
-
-Feel free to fork the repo and raise an issue or PR!
-
 ## 🙌 Credits
 
 - Daksh Jain – Name suggestion
-- Danish Dubey – Project lead
+- Danish Dubey, Ahmar Shayan– Project lead
 
